@@ -32,13 +32,12 @@ h3 { color: white;
        margin-top:30px;
        margin-right: 20px; }
 
-.box div { width: 100px;
-           height: 100px; }
-           
-.box div img { width: 100%; }          
-
-.image { display: inline-block; } 
-
+.image { display: inline-block;
+          width: 100px;
+          height: 100px; }       
+ 
+img { width: 100%; }          
+     
 .user-job { color: white;
             margin-top: 10px;
             margin-left: 5px;
